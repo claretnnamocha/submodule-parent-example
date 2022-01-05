@@ -1,0 +1,3 @@
+[submodule "submodule-child-example"]
+	path = submodule-child-example
+	url = https://github.com/claretnnamocha/submodule-child-example.git
